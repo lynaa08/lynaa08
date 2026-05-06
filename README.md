@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hey, I'm Lina — a student in Information Systems Engineering (ISIL) 🎓<br>
-🌱 Currently learning full-stack development & always building something new.
+Hey, I'm Lina — a student in Information Systems Engineering (ISIL) <br>
+Currently learning full-stack development & always building something new.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-kouache-716474377/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:linakouache5@gmail.com)
